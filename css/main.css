@@ -1,0 +1,32 @@
+.hero {
+    background-color: #074f57;
+    background-image: url("../pictures/bamboo.jpg");
+    backdrop-filter: blur(1.5px);
+    
+}
+
+.color {
+    color:white;
+    
+}
+.color2 {
+    color:white;
+    font-family: 'Courier New';
+  font-size: 35px;
+}
+
+.centers {
+    
+  margin: auto;
+  width: 80%;
+  padding-top: 80px;
+  padding-bottom: 280px;
+}
+
+.name {
+    padding-top: 110px;
+  padding-bottom: 10px;
+  font-family: 'Courier New';
+  font-size: 60px;
+  
+}
